@@ -1,0 +1,78 @@
+{
+  "item": [
+    {
+      "id": 2,
+      "name": "Lap top",
+      "description": "mau trang"
+    },
+    {
+      "id": 3,
+      "name": "Lap top",
+      "description": "mau trang"
+    },
+    {
+      "name": "cc",
+      "description": "ddddd",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "May anh",
+      "description": "lllllllll"
+    },
+    {
+      "name": "Ipad",
+      "description": "Màu xám",
+      "id": 6
+    }
+  ],
+  "ListStudents": [
+    {
+      "name": "Đào china",
+      "description": "Ngực lép , eo thon, mông không có .",
+      "age": "20",
+      "image": "https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-xinh-cuc-dep.jpg",
+      "id": 34,
+      "phone": "1900100"
+    },
+    {
+      "name": "Hàng mới về , quẹo lựa",
+      "description": "Ngây thơ , trong sáng, vô số tội",
+      "age": "18",
+      "image": "https://haycafe.vn/wp-content/uploads/2022/02/Anh-gai-xinh-Viet-Nam.jpg",
+      "id": 35,
+      "phone": "0123456789"
+    },
+    {
+      "name": "4 lù",
+      "description": "famous actors (inbox, for more details )",
+      "age": "18",
+      "image": "https://678.vn/images/raovat1/p679350.jpg",
+      "id": 36
+    },
+    {
+      "name": "Hàng tuyển",
+      "description": "Yêu màu tím, thích màu hồng , ghét sự giả dối",
+      "age": "19",
+      "image": "https://www.dungplus.com/wp-content/uploads/2019/12/girl-xinh-1-600x750.jpg",
+      "id": 37,
+      "phone": "00349454004"
+    },
+    {
+      "name": "Lucky ",
+      "description": "wwwww",
+      "age": "10000",
+      "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-meo-cam-phong-lon-meme-meo-cosplay-hoang-thuong.jpg",
+      "id": 38,
+      "phone": "0988811111"
+    },
+    {
+      "name": "fuck Cat",
+      "description": "Hello everyone",
+      "age": "00",
+      "image": "https://s.memehay.com/files/posts/20200825/524bb2219ce56bff2c434e29b69d3a3fhinh-anh-chu-meo-dua-ngon-tay-thoi.jpg",
+      "id": 39,
+      "phone": "88292003"
+    }
+  ]
+}
